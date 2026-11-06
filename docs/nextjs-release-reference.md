@@ -4,18 +4,18 @@ Reference data captured from `vercel/next.js` for the release-process playbook.
 
 ## Upstream release
 
-- **Tag:** v16.4.5
-- **Title:** v16.4.5
+- **Tag:** `v16.4.5`
+- **Title:** `v16.4.5`
 - **Published:** 2026-11-03
 - **Release page:** https://github.com/vercel/next.js/releases/tag/v16.4.5
 
-## Release cadence note
+## Release cadence
 
-Next.js is extremely release-active: it has cut roughly one release per day over the last two weeks (10 releases in ~13 days) — canary channels publish ~once a day (e.g. v16.5.0-canary.42 published 2026-11-05) while stable-production releases (e.g. v16.4.5, published 2026-11-03) land around the monthly boundary.
+Next.js is extremely release-active: canary-channel releases are cut roughly once per day (e.g. `v16.5.0-canary.42` published 2026-11-05), while stable-production releases land only occasionally around key dates (e.g. `v16.4.5` published 2026-11-03).
 
 ## Discussion categories
 
-The following discussion categories are used by `vercel/next.js`:
+`vercel/next.js` uses the following discussion categories to organize community conversation:
 
 - App Router
 - Feedback
